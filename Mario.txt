@@ -1,1 +1,2 @@
 me llamo Mario y estudio git
+también estudio GitHub desktop
